@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "137591931592",
+    "firebase_url": "https://gamershubcontest-a6b9a.firebaseio.com",
+    "project_id": "gamershubcontest-a6b9a",
+    "storage_bucket": "gamershubcontest-a6b9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137591931592:android:a706b329d0fac67544dbfd",
+        "android_client_info": {
+          "package_name": "com.warriorsbattle.battle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137591931592-fuk874nnnvo9rvv2h42rjip2i8qj78cn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.warriorsbattle.battle",
+            "certificate_hash": "e4495314726c43c6e6accf13f883fa7909587c0b"
+          }
+        },
+        {
+          "client_id": "137591931592-rpq53obqd80b9677eepqm0tckcu6vca6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.warriorsbattle.battle",
+            "certificate_hash": "36d5e29d8d19ff613feec57b564d440e0527fa72"
+          }
+        },
+        {
+          "client_id": "137591931592-maod8lp281qc2a0adpd4nfq582fva0vo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUvRA1RoEzitCcsKJp8lqsmpTqBRl_OMQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137591931592-maod8lp281qc2a0adpd4nfq582fva0vo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
