@@ -12,7 +12,7 @@ Also developed an admin side website to manage the users payments and results of
 
 
 
-![Login Image](https://drive.google.com/file/d/1kjfPaFtYI8ZSF-jU9mVeJrA9fgtZWDbM/view?usp=sharing)
+![Screenshot](https://drive.google.com/file/d/1kjfPaFtYI8ZSF-jU9mVeJrA9fgtZWDbM/view?usp=sharing)
 ![Splash Screen](https://drive.google.com/file/d/1eM5qzx9SlxEW_34njn8bVBd5vC-j5vF_/view?usp=sharing)
 ![Homepage](https://drive.google.com/file/d/1czPxDpcs6b-IZS8QFTHHdZ8JZREXlTQM/view?usp=sharing)
 ![Profile](https://drive.google.com/file/d/1qJYDHeQ1rjsE7Z5_U-5GolkMtdduFeQ9/view?usp=sharing)
