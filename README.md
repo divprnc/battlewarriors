@@ -13,12 +13,13 @@ Also developed an admin side website to manage the users payments and results of
 
 
 ![Screenshot](https://github.com/divprnc/battlewarriors/blob/main/Screenshots/WhatsApp%20Image%202021-08-28%20at%2000.04.09%20(1).jpeg)
-![Splash Screen](https://drive.google.com/file/d/1eM5qzx9SlxEW_34njn8bVBd5vC-j5vF_/view?usp=sharing)
-![Homepage](https://drive.google.com/file/d/1czPxDpcs6b-IZS8QFTHHdZ8JZREXlTQM/view?usp=sharing)
-![Profile](https://drive.google.com/file/d/1qJYDHeQ1rjsE7Z5_U-5GolkMtdduFeQ9/view?usp=sharing)
-![Wallet](https://drive.google.com/file/d/1Jtx-Yeif-8HgISjb1yhtBkxKR4dssTsE/view?usp=sharing)
+![Splash Screen](https://github.com/divprnc/battlewarriors/blob/main/Screenshots/WhatsApp%20Image%202021-08-28%20at%2000.04.09.jpeg)
+![Homepage](https://github.com/divprnc/battlewarriors/blob/main/Screenshots/WhatsApp%20Image%202021-08-28%20at%2000.04.09%20(2).jpeg)
+![Profile](https://github.com/divprnc/battlewarriors/blob/main/Screenshots/WhatsApp%20Image%202021-08-28%20at%2000.04.09%20(3).jpeg)
+![Wallet](https://github.com/divprnc/battlewarriors/blob/main/Screenshots/WhatsApp%20Image%202021-08-28%20at%2000.04.09%20(4).jpeg)
 
-![Refer And Earn](https://drive.google.com/file/d/1p1vCs8C0xPrDWeKN9oTW2ZAsD5TF0bZe/view?usp=sharing)
-![Privacy policy](https://drive.google.com/file/d/1tK-nExOUWIEUVhQHUZw9da0MbJlSwCrp/view?usp=sharing)
-![Winner Page - Leaderboard](https://drive.google.com/file/d/1GOEclSfbB1vBBMIHdSS8hPVlEWfAVvIl/view?usp=sharing)
+![Settings](https://github.com/divprnc/battlewarriors/blob/main/Screenshots/WhatsApp%20Image%202021-08-28%20at%2000.04.09%20(6).jpeg)
+![Refer And Earn](https://github.com/divprnc/battlewarriors/blob/main/Screenshots/WhatsApp%20Image%202021-08-28%20at%2000.04.09%20(5).jpeg)
+![Privacy policy](https://github.com/divprnc/battlewarriors/blob/main/Screenshots/WhatsApp%20Image%202021-08-28%20at%2000.04.09%20(7).jpeg)
+![Winner Page - Leaderboard](https://github.com/divprnc/battlewarriors/blob/main/Screenshots/WhatsApp%20Image%202021-08-28%20at%2000.04.09%20(8).jpeg)
 
